@@ -6,7 +6,7 @@ const nosotros = () => {
     return (
         <Layout>
             <h1 className="text-2xl text-gray-800 font-light">
-                Nosotros
+                Productos
             </h1>
         </Layout> 
     )
